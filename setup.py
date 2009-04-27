@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.0.1'
+version = '0.0.2'
 
 setup(name='rbco.commandwrap',
       version=version,
@@ -19,7 +19,7 @@ setup(name='rbco.commandwrap',
       keywords='shell os command wrapper',
       author='Rafael Oliveira',
       author_email='rafaelbco@gmail.com',
-      url='',
+      url='http://commandwrap.googlecode.com',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['rbco'],
