@@ -1,0 +1,35 @@
+Metadata-Version: 1.0
+Name: rbco.commandwrap
+Version: 0.0.1
+Summary: Provide a set of decorators to make functions that run OS commands.
+Home-page: UNKNOWN
+Author: Rafael Oliveira
+Author-email: rafaelbco@gmail.com
+License: GPL
+Description: .. contents::
+        
+        Introduction
+        ============
+        
+        Provide a set of decorators to make functions that run OS commands.
+        
+        
+        TODO
+        ====
+        
+        - Write tests.
+        - Write documentation.
+        
+        Changelog
+        =========
+        
+        0.0.1
+        -----
+        
+        * First release.
+        
+        
+Keywords: shell os command wrapper
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
