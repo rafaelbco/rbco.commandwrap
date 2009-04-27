@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
 Name: rbco.commandwrap
-Version: 0.0.1
+Version: 0.0.2
 Summary: Provide a set of decorators to make functions that run OS commands.
-Home-page: UNKNOWN
+Home-page: http://commandwrap.googlecode.com
 Author: Rafael Oliveira
 Author-email: rafaelbco@gmail.com
 License: GPL
@@ -28,6 +28,10 @@ Description: .. contents::
         
         * First release.
         
+        0.0.2
+        -----
+        
+        * Added Google Code URL.
         
 Keywords: shell os command wrapper
 Platform: UNKNOWN
